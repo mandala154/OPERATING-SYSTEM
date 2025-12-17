@@ -42,7 +42,8 @@ I compiled measurements into the table below, averaging three runs per scenario.
 ## Performance Visualisations
 I generated charts to visualize the impact of the workloads and the effectiveness of my optimizations.
 
-![CPU Usage Comparison Chart]<img width="1536" height="1024" alt="week6-cpychart" src="https://github.com/user-attachments/assets/bfc0ba20-128d-4b96-910a-b38305bb8b50" />
+![CPU Usage Comparison Chart]<img width="1536" height="1024" alt="week6 cpu-chart" src="https://github.com/user-attachments/assets/769a27d9-28c0-44a0-8b72-150f1264f817" />
+
 
 *Figure 1: Comparison of CPU usage between Load and Optimized states across applications.*
 
